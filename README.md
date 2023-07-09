@@ -6,4 +6,5 @@ Este repositorio esta actualizado al *08-Julio-2023*, por favor, si presenta alg
 # REPOSITORIOS ACTUALES.
 1. Aplicacion en Tkinter para tratamiento ETL.
 2. Scripts de transformacion de datos y carga en parquets.
+3. Tablero en Power Bi para identificar puntos de reaccion rapida para accidentes en la ciudad de Mexico.
 
