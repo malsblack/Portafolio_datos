@@ -101,3 +101,4 @@ def transform_creditos_activos():
         df_credito_financiero_rename['otorgadoEn'] = pd.to_datetime(df_credito_financiero_rename['otorgadoEn'],
                                                                         format='%d%m%Y').dt.strftime('%Y-%m-%d')
         return(df_credito_financiero_rename.to_csv("creditos_activos.csv"))
+
